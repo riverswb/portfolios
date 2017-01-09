@@ -1,8 +1,10 @@
-# (Your Name) - (M1/M2/M3/M4) Portfolio
+# Brett - M2 Portfolio
 
 ## End of Module Reflection
 
 What did you get technically and professionally out of this module? How are you going to use it in the future?
+
+* I learned how to develop and deploy Ruby on Rails websites using Test Driven Development.
 
 ## Self-Evaluated Rubric Scores
 
@@ -24,15 +26,73 @@ Add your notes and scores here.
 
 ### Group Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Bike Share](https://github.com/riverswb/bike-share)
+
+##### 1. Functional Expectations
+
+* 3.5: Application fulfills base expectations and adds two extensions
+* 3.5: Application fulfills base expectations
+
+### 2. ActiveRecord
+
+* 3.5: Appropriate ActiveRecord methods are used to query the database and live in the appropriate model. No Ruby is used to organize data after database queries.
+* 3.5: ActiveRecord methods generally live in the appropriate model, but some Ruby is used to organize data after database queries. A project at this level may have some queries that have not produced the correct results based on the expectations described, but in those cases the query was still generally on the right path and demonstrated some minor misunderstanding.
+
+### 3. User Experience and Conventions
+
+* 4: Project uses Sinatra methods and ERB templates to display both resources and non-resource related views with appropriate routes, and HTTP verbs. All functionality can be accessed in the application where expected based on the spec. User experience is exceptional ('client ready') and all pieces of the application can be accessed without entering addresses manually in the nav bar.
+
+### 4. Code Organization/Quality
+
+* 3: Some logic not related specifically to HTTP requests/resesponses remains in the main application file. Some methods may be slightly long, or follow unexpected patterns. Limited logic may leak into the views.
+
+### 5. Testing
+
+* 4: Application is broken into components which are well tested in both isolation and integration using appropriate data
+
+### 6. Working Collaboratively
+
+* 4: Excellent use of branches, pull requests, and a project management tool.
+
+#### [Little Shop: Gryff-Outdoor](http://gryff-outdoor.herokuapp.com/)
 
 If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
 
 ### Individual Projects
 
-#### [Project Name](include-link-to-production-site-here)
+#### [Job Tracker](https://github.com/riverswb/job-tracker)
 
-If the project was graded, add your evaluation scores and notes. If the project was not graded, add a reflection.
+* comments: good work with this. i left you some comments and i see your missing a few pieces of functionality, but overall this is solid. let me know if you have questions 👍
+
+### 1) Database, Relationships, and Migrations
+
+ * 4: The database has appropriate tables and appropriate columns to create relationships between tables. Foreign keys are indexed to increase database performance. Tables and columns are appropriately named.
+
+### 2) Routes
+
+* 3: The developer has routes for all functionality that they provide, but may include routes that are not used in the application.
+
+### 3) Controllers
+
+*    3: Some logic may leak into the controllers that would more appropriately exist in a model/PORO. The developer may pass more instance variables than necessary to the view.
+
+### 4) ActiveRecord
+
+ *   2.5: ActiveRecord methods are used appropriately in the database, but some Ruby enumerables may also be used. The developer uses ActiveRecord relationships appropriately, and does not call on other classes in their models.
+    2.5: The developer may be calling on other classes in models (e.g. Category.where(title: title)), and may struggle to explain choices they made in implementing some functionality.
+
+### 5) Views
+
+ *    2: Significant logic leaks into the view or remains in controllers and developers show some difficulty in identifying strategies to refactor.
+
+### 6) User Experience
+
+ *   3: The application has been styled, but the user may need to use the nav-bar to enter a URL or back button to get to access some functionality.
+
+### 7) Testing
+
+ *   3: Project has a running test suite that tests and multiple levels but fails to cover some features
+
 
 ## C: Professional Skills
 
@@ -50,6 +110,9 @@ Include takeaways and deliverables from each session.
 
 ### Giving Feedback
 
+* Daniel:  Working with you for bike share was great.  I really enjoyed how you helped me with understanding the database structure.  Remember to speak up! Both, in volume, and when you have an idea!
+
+* Robbie: I was really excited to work with you for bike share because I thought we would work well together, I was not disappointed.  I really appreciate how you helped me with some refactoring and duck typing.  Although it wasn't an issue, remember to talk about your direct methods of communication when DTRing with future groups.  
 (feedback from me)
 
 ### Being a Community Member
@@ -59,6 +122,10 @@ Include takeaways and deliverables from each session.
 ## E: Community Participation
 
 How did you actively contribute to the Turing community?
+* I water the plants in the basement.
+* Available for pairing with mod 1 students formally 2+ times per week
+* Active on the Pairing slack channel, mostly helping M1 students
+* I do more than 5 loads of dishes per week, in addition to my assigned cleaning duties.
 
 ------------------
 
