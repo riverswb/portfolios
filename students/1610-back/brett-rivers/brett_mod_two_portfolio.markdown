@@ -117,7 +117,7 @@ Include takeaways and deliverables from each session.
 
 ### Being a Community Member
 
-(feedback to me)
+* Daniel: I really enjoyed working on Bike Share with Brett. This was the first time working with someone who lives out of town and I was a little nervous . Brett's ability to collaborate remotely and his overall knowledge of Github has helped in improving my workflow. I would've liked to have taken more time as a group to plan out the project before splitting up but that's all I can think of.
 
 ## E: Community Participation
 
