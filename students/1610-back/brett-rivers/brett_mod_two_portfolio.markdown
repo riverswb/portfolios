@@ -10,11 +10,11 @@ What did you get technically and professionally out of this module? How are you 
 
 Find the rubric near the end of this document.
 
-* **A: End of Module Assessment**: X
-* **B: Individual & Group Work**: X
-* **C: Professional Skills**: X
-* **D: Feedback**: X
-* **E: Community Participation**: X
+* **A: End of Module Assessment**: 4
+* **B: Individual & Group Work**: 4
+* **C: Professional Skills**: 3
+* **D: Feedback**: 3
+* **E: Community Participation**: 4
 
 -----------------------
 
@@ -28,10 +28,7 @@ Subjective evaluation will be made on your work/process according to the followi
 
 1. Conceptual Understanding
 
- * 4: Developer is able to describe concepts with a high degree of specificity and accuracy without assistance
  * 3: Developer is able to describe concepts with a moderately high degree of specificity and accuracy with some assistance/questioning
- * 2: Developer demonstrates some gaps in understanding when asked for additional detail
- * 1: Developer has fundamental misconceptions about Rails, MVCs, the web, or related topics
 
 2. Analytic/Algorithmic Thinking
 
@@ -133,18 +130,56 @@ If the project was graded, add your evaluation scores and notes. If the project 
 ## C: Professional Skills
 
 ### Gear Up
+#### [Microaggressions 101: building understanding](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
+
+* As a white male, I know I am fortunate to not experience, or care, about micro aggressions.  Micro aggressionas are a big deal because they build on the person experiencing them. While I do not experience the same things, I try to take in and understand everything that my "minority" friends complain (probably not the best wording) about so that I can be a better person and not add to minorities micro aggressions.  (" I really hope this doesn't come across wrong, I am very bad at stuff like this, I'm trying to be sensitive")
+
 #### Session Name
 
 Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
 
-### Professional Development Workshops
-#### (Session Name)
+#### Grit https://github.com/turingschool/gear-up/blob/master/grit.markdown
 
-Include takeaways and deliverables from each session.
+* Grit is resilience plus passsion? I came out of this feeling like I didn't know what Turing wanted from me.  I do not buy into these pop-sci terms, until there is research supporting the claims I just don't care.  
+
+* I am a classically trained scientist.
+
+### Professional Development Workshops
+#### Finding Opertunities
+
+* We discussed ways to find a job other than looking at the traditional sites.  I made a job tracker with companies I might be interested in working at and with a potential contact for each company 
+
+[Brett's Job Tracker](https://trello.com/b/FYMrrLny/job-tracker-brett-rivers)
+
+#### Collaborative Communication
+
+* We read some chapters from "How to Win Friends and Influence People in the Digital Age".
+
+* People being open to trying new things, and using tools they are new to, has both been what makes teams successful for me and difficult when a teamember doesn't want to step outside of their comfort zone to use a new tool, even if it is required.
+
+* As a team member, I typically go with the flow and try to help people when they seem to be struggling, as long as the project is moving along at a pace I am comfortable with I am happy to just do as I am told by the project manager.  As a project manager, which I was for Little Shop, I like to layout all of the issues we have before us, we used waffle.io, and allow the team members to pick an issue to work on.  
+
+#### Feedback 2
+
+* We talked about blind spots and right & wrong spotting but we didn't have any deliverables as far as I can tell from this workshop.  
+
+#### Cold Outreach
+
+* I did my first 4 cold outreach emails, but I was excused from the rest because I have confirmed I have a job lined up at my previous employer.
+
+#### Networking
+
+* I met some cool front end people and got to practice my elevator speech.  
 
 ## D: Feedback
 
 ### Giving Feedback
+
+* David: David is a programming machine, I would be surprised if he got more than 3 hours of sleep a night with as much good code he outputs.  He is also a great team member, always ready with a witty remark to lift the team's spirits. David, I think it would benefit your future teams if you would communicate more with the team about what you are working on, either through slack messages, pushing your branches to github, or updating issue trackers more often.  
+
+* Ethan: Ethan is a wonderful backend developer, however that is outshined by his front end and design skills.  I feel like I have learned more over the course of this project just by asking him questions about styling than the many, many hours of tutorials I have done.  He has a great work ethic and responds to communications quickly.  Ethan, I really appreciated how available you were over the course of the project, you will be an assest to any team with as quickly as you respond to every question related to the project.
+
+* Jesse: Jesse is a natural leader and problem solver that balances what needs to be said with what needs to be done, to motivate the entire team.  I really appreciated that when things came up in your home life that would keep you from communicating with the group you let us know about how long you would be unreachable, hopefully you don't need to go change flat tires too often, but when you do letting the team know you are unreachable is valuable.
 
 * Daniel:  Working with you for bike share was great.  I really enjoyed how you helped me with understanding the database structure.  Remember to speak up! Both, in volume, and when you have an idea!
 
@@ -153,7 +188,23 @@ Include takeaways and deliverables from each session.
 
 ### Being a Community Member
 
+* Ethan: You’re really well suited to manage a team. You never have a problem being straightforward, and you have an obviously solid grasp on workflow tools, Git, and the “big picture” stuff in general. It felt to me like you always had the most comprehensive awareness of how all the features needed to interact, and that’s no small task in a project this large. I hope we get to work together again!
+
+* David: Brett you do a wonderful job of keeping our group on track, particularly by reminding us all to use the waffle.  Your bluntness over the course of this project was refreshing because it allowed me to not waste time or mental power wondering how you were “feeling.”  I feel lucky to have gotten the chance to know you better and over the course of this project I’ve come to realize that you have a really good heart (that’s not just fluff, i actually think it). Keep up the good work and I hope to work with you again on another project.
+
+* Jesse: Brett was an outstanding Project Manager and team member in our final project.
+  His attention to detail, and thoroughness really kept our project on track. 
+  His code review really helped in catching small things that could/would have led 
+  to much bigger headaches.
+
+  Brett's attitude and direction really set a productive pace without pushing or 
+  demanding anything from the team that Brett wouldn't have done his self. I would 
+  really enjoy working with Brett again on a future project. His work style, pace, 
+  and effort really were a great thing to have in a group.
+
 * Daniel: I really enjoyed working on Bike Share with Brett. This was the first time working with someone who lives out of town and I was a little nervous . Brett's ability to collaborate remotely and his overall knowledge of Github has helped in improving my workflow. I would've liked to have taken more time as a group to plan out the project before splitting up but that's all I can think of.
+
+* Robbie: I appreciated working with Brett. It was really nice to be in a group where we could discuss matters openly and freely without having to worry about someone taking something the wrong way. I also really appreciated his work ethic and I hope I can work with him again.
 
 ## E: Community Participation
 
@@ -162,6 +213,7 @@ How did you actively contribute to the Turing community?
 * Available for pairing with mod 1 students formally 2+ times per week
 * Active on the Pairing slack channel, mostly helping M1 students
 * I do more than 5 loads of dishes per week, in addition to my assigned cleaning duties.
+* I have been asigned a prework student to assist
 
 ------------------
 
