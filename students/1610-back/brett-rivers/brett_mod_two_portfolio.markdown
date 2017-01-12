@@ -132,17 +132,15 @@ If the project was graded, add your evaluation scores and notes. If the project 
 ### Gear Up
 #### [Microaggressions 101: building understanding](https://github.com/turingschool/gear-up/blob/master/microaggressions_group1.md)
 
-* As a white male, I know I am fortunate to not experience, or care, about micro aggressions.  Micro aggressionas are a big deal because they build on the person experiencing them. While I do not experience the same things, I try to take in and understand everything that my "minority" friends complain (probably not the best wording) about so that I can be a better person and not add to minorities micro aggressions.  (" I really hope this doesn't come across wrong, I am very bad at stuff like this, I'm trying to be sensitive")
+* As a white male, I know I am fortunate to not experience, or care, about micro aggressions.  Micro aggressionas are a big deal because they build on the person experiencing them. While I do not experience the same things, I try to take in and understand everything that I learned in this gear up.
 
-#### Session Name
+#### Journey mapping
 
-Write 3-4 sentences summarizing your takeaways from _each_ session, including things you're continuing to think about, things you learned, things you're doing differently.
+* Journey mapping is a tool to develop the user experience fully.  We can use journey mapping to figure out how many people might experience a similar thing in different ways.  We can use journey mapping to be more inclusive in our design choices.
 
 #### Grit https://github.com/turingschool/gear-up/blob/master/grit.markdown
 
-* Grit is resilience plus passsion? I came out of this feeling like I didn't know what Turing wanted from me.  I do not buy into these pop-sci terms, until there is research supporting the claims I just don't care.  
-
-* I am a classically trained scientist.
+* Grit is resilience plus passsion? I came out of this feeling like I didn't know what Turing wanted from me.  I do not buy into these pop-sci terms, until there is research supporting the claims I'm not going to put much weight behind the idea, like the initial researcher says.
 
 ### Professional Development Workshops
 #### Finding Opertunities
